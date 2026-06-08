@@ -50,11 +50,11 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus-releases</id>
+            <id>creative-nexus-releases</id>
             <url>https://nexus.creative-workspace.bijoy/repository/maven-creative-workspace-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus-snapshots</id>
+            <id>creative-nexus-snapshots</id>
             <url>https://nexus.creative-workspace.bijoy/repository/maven-creative-workspace-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
