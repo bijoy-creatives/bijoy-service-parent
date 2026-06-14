@@ -33,6 +33,10 @@
             <artifactId>spring-boot-starter-data-redis</artifactId>
             <!-- No version needed — inherited from spring-boot-starter-parent -->
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-opentelemetry</artifactId>
+        </dependency>
 
     </dependencies>
 
