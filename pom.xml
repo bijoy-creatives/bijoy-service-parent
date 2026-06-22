@@ -28,11 +28,7 @@
             <artifactId>spring-boot-admin-starter-client</artifactId>
             <!-- ✅ No version — managed in bijoy-common-parent -->
         </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-redis</artifactId>
-            <!-- No version needed — inherited from spring-boot-starter-parent -->
-        </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-opentelemetry</artifactId>
